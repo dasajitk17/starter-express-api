@@ -17,17 +17,10 @@
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
-    "@fastify/formbody": "^7.4.0",
-    "@fastify/static": "^6.10.2",
-    "@fastify/view": "^8.0.0",
     "@supabase/supabase-js": "^2.38.4",
     "@tensorflow-models/qna": "^1.0.2",
     "@tensorflow/tfjs-converter": "^4.12.0",
     "@tensorflow/tfjs-core": "^4.12.0",
-    "@tensorflow/tfjs-node": "^4.12.0",
-    "fastify": "^4.21.0",
-    "handlebars": "^4.7.8",
-    "long": "^5.2.3",
-    "stopword": "2.0.8"
+    "@tensorflow/tfjs-node": "^4.12.0"
   }
 }
