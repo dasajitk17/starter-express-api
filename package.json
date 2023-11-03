@@ -24,7 +24,6 @@
     "@tensorflow/tfjs-core": "^4.12.0",
     "@tensorflow/tfjs-node": "^4.12.0",
     "long": "^5.2.3",
-    "natural": "6.8.0",
-    "stopword": "2.0.8"
+    "natural": "6.8.0"
   }
 }
