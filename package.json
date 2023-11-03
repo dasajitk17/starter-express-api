@@ -28,7 +28,6 @@
     "fastify": "^4.21.0",
     "handlebars": "^4.7.8",
     "long": "^5.2.3",
-    "natural": "6.8.0",
     "stopword": "2.0.8"
   }
 }
